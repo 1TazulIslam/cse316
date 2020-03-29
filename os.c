@@ -41,7 +41,7 @@ int main()
 	
 	time=small1;
 	
-	
+	//finding required output applying formula
 	for(k=0;k<=counter;k++)
 	{
 		for(l=0;l<=counter;l++)
