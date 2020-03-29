@@ -76,7 +76,7 @@ int main()
 	}		
 	avgturn=totturn/(counter+1);
 	avgwait=totturn/(counter+1);
-	//final output
+	//final output and showing
 	printf("\ntotal time taken = %d\n",time);
 	printf("average turnaround time = %f\n",avgturn);
 	printf("average waiting time = %f\n",avgwait);
