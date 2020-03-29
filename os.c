@@ -5,6 +5,7 @@ int main()
 	int time,arrtime=0,bursttime=0,small1=100,small=100,point=0,totturn=0,totwait=0,l,x=0;
 	int processno[100],arrarray[100],burst[100],turnarray[100],waitarray[100];
 	float avgturn,avgwait;
+	//calculation part
 	while(W!=0)
 	{
 		printf("arrival and burst time\n");
